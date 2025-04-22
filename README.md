@@ -43,6 +43,10 @@ We used **K-Means clustering** and visualized results using a heatmap.
 
 Each group showed unique behavior patterns in terms of time spent, types of sites visited, and session frequency.
 
+![image](https://github.com/user-attachments/assets/91413fab-b0ce-43db-bf87-6c73c837978a)
+![image](https://github.com/user-attachments/assets/47d96f28-ffd9-4691-a2b4-f52ed5d660c0)
+
+
 ---
 
 ##  Read the Full Report
